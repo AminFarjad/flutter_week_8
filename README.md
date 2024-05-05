@@ -1,5 +1,7 @@
 # week_8
-
+- Amin Farjad 20k-0344
+- Syed Haziq AHmed 20k-0227
+- Wazi bin qasim 20k-0377
 A new Flutter project.
 
 ## Getting Started
